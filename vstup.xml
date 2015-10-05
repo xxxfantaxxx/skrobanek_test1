@@ -1,0 +1,24 @@
+<zamestnanci>
+    <row>
+        <id>74</id>
+        <cislo>100061</cislo>
+        <jmeno>Petr</jmeno>
+        <prijmeni>Grussmann</prijmeni>
+        <stredisko>00100124</stredisko>
+        <role>HIP</role>
+        <loginid>petrg</loginid>
+        <mzda>1000</mzda>
+        <odmena>300</odmena>
+    </row>
+    <row>
+        <id>45</id>
+        <cislo>100062</cislo>
+        <loginid>Jiri</loginid>
+        <jmeno>Jiri</jmeno>
+        <prijmeni>Prvni</prijmeni>
+        <stredisko>skupina</stredisko>
+        <role>HIP</role>
+        <mzda>2000</mzda>
+        <odmena>500</odmena>
+    </row>
+</zamestnanci>
